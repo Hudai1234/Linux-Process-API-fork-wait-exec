@@ -45,7 +45,7 @@ int main() {
 
 ## OUTPUT
 
-<img width="588" height="265" alt="Screenshot 2025-09-23 221917" src="https://github.com/user-attachments/assets/782c0e8a-bf39-432d-a516-a42a4915bdfe" />
+![alt text](<Screenshot 2025-09-23 221917.png>)
 
 
 
@@ -78,15 +78,15 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-<img width="807" height="584" alt="Screenshot 2025-09-23 222240" src="https://github.com/user-attachments/assets/a786a4c2-68b9-4c7c-882d-39f7f6875337" />
-<img width="774" height="610" alt="Screenshot 2025-09-23 222253" src="https://github.com/user-attachments/assets/2b267684-83a3-43fa-a241-04d9dfa0a68c" />
-<img width="790" height="603" alt="Screenshot 2025-09-23 222309" src="https://github.com/user-attachments/assets/ebb4b251-38c9-49d3-984e-313c4cf8b2ef" />
-<img width="802" height="608" alt="Screenshot 2025-09-23 222324" src="https://github.com/user-attachments/assets/8397cae1-0d2a-457d-958a-7e48cabf10cb" />
-<img width="803" height="602" alt="Screenshot 2025-09-23 222353" src="https://github.com/user-attachments/assets/e7141603-af56-4e7d-ae82-cf1f1b2c6cbd" />
-<img width="804" height="596" alt="Screenshot 2025-09-23 222416" src="https://github.com/user-attachments/assets/6f69bb40-c7c8-4991-bfb6-ea93a5b612ba" />
-<img width="797" height="608" alt="Screenshot 2025-09-23 222515" src="https://github.com/user-attachments/assets/8b7b4439-ae68-48d1-8073-711c4ad1e058" />
-<img width="796" height="601" alt="Screenshot 2025-09-23 222553" src="https://github.com/user-attachments/assets/90adabb3-449a-4340-b72a-415721545370" />
-<img width="796" height="561" alt="Screenshot 2025-09-23 222606" src="https://github.com/user-attachments/assets/485ac34c-e8ac-4c2c-aab9-245bb704e25f" />
+![alt text](<Screenshot 2025-09-23 222240.png>)
+![alt text](<Screenshot 2025-09-23 222253.png>)
+![alt text](<Screenshot 2025-09-23 222309.png>) 
+![alt text](<Screenshot 2025-09-23 222324.png>)
+ ![alt text](<Screenshot 2025-09-23 222353.png>) 
+ ![alt text](<Screenshot 2025-09-23 222416.png>) 
+ ![alt text](<Screenshot 2025-09-23 222515.png>)
+  ![alt text](<Screenshot 2025-09-23 222553.png>) 
+  ![alt text](<Screenshot 2025-09-23 222606.png>)
 
 
 ## 3. C Program to execute Linux system commands using Linux API system calls exec() family
@@ -133,8 +133,8 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="768" height="304" alt="Screenshot 2025-09-23 222841" src="https://github.com/user-attachments/assets/12ca0b4d-d6d9-45ba-804d-06d71c0d2a27" />
 
+![alt text](<Screenshot 2025-09-23 222841.png>)
 
 
 # RESULT:
